@@ -1,1 +1,1 @@
-# Homework-seminar-J6
+Код запускается из файла "market". 
